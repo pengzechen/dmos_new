@@ -1,0 +1,8 @@
+
+
+*.txt
+*.elf
+*.bin
+*.o
+/build/*.txt
+/guest/linux/initrd
